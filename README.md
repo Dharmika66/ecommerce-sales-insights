@@ -98,6 +98,6 @@ ORDER BY total_profit DESC;
 
 ## **Author**
 
-Dharmika Aman — Data Explorer & Developer  
+Dharmika  — Data Explorer & Developer  
 Project part of personal portfolio showcasing real-world data skills.
 
