@@ -1,4 +1,7 @@
-
+![GitHub last commit](https://img.shields.io/github/last-commit/Dharmika66/ecommerce-sales-insights?style=flat-square)
+![Repo size](https://img.shields.io/github/repo-size/Dharmika66/ecommerce-sales-insights?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python&style=flat-square)
+![SQL](https://img.shields.io/badge/SQL-SQLite-lightgrey?logo=sqlite&style=flat-square)
 # E-commerce Sales Insights
 
 A data exploration project built with SQL and a synthetic dataset to simulate real-world e-commerce analytics. This project showcases skills in data querying, aggregation, joins, and business analysis using a rich and realistic dataset.
